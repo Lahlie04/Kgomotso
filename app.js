@@ -12,3 +12,4 @@ else
 }
 
 //if (num===10)
+//this is to test how branch works
